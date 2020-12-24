@@ -1,4 +1,4 @@
-module github.com/passbase/passbase-go
+module github.com/quidd/passbase-go
 
 go 1.15
 
